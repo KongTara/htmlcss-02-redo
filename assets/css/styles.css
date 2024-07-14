@@ -226,7 +226,7 @@ a {
     margin-bottom: 3px;
 }
 
-.hero .hero-summary .info .title a {
+.hero .hero-summary .info .title {
     font-weight: 600;
     font-size: 1.8rem;
     color: #171100;
