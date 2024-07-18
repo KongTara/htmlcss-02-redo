@@ -35,6 +35,7 @@ button {
 
 a {
     text-decoration: none;
+    color: #000;
 }
 
 .btn {
@@ -720,7 +721,7 @@ footer {
     gap: 0 18px;
 }
 
-.footer .row .column .title a{
+.footer .row .column .title a {
     position: relative;
     padding-bottom: 14px;
     font-weight: 600;
